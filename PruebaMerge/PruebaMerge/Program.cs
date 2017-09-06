@@ -14,6 +14,10 @@ namespace PruebaMerge
             //1 - Modificacion fichero en desarrollo 12:02
             //4 - Modificacion fichero en desarrollo auxiliar 12:10
             // 8 - Cambio en desarrollo desdepues de haber hecho el merge con desarrollo auxiliar
+            //10 - Cambio en desarrollo 12:28
+            //11 - Cambio en desarrollo 12:29
+            //13 - Cambio en desarrollo 12:33
+
 
         }
     }
