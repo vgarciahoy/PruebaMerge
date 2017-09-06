@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace PruebaMerge
 {
-    class Program
+    class _1_Fichero
     {
-        static void Main(string[] args)
-        {
-
-            //1 - Modificacion fichero en desarrollo 12:02
-
-        }
     }
 }
