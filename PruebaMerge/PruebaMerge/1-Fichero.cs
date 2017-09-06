@@ -8,5 +8,6 @@ namespace PruebaMerge
 {
     class _1_Fichero
     {
+        //4 - Modificacion fichero en desarrollo auxiliar 12:10
     }
 }
